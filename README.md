@@ -4,7 +4,7 @@ I build and operate enterprise-grade cloud platforms that enable AI systems and 
 
 ### ✍️ Contributions
 #### [Horizon-SDV](https://github.com/GoogleCloudPlatform/horizon-sdv)
-Primary contributions focused on enabling secure, production-ready GenAI workflows and developer tooling within the Horizon-SDV platform.
+Open-source toolchain platform for Software Defined Vehicle by Google and Accenture. Primary contributions focused on enabling secure, production-ready GenAI workflows and developer tooling within the Horizon-SDV platform.
 - **Release 3.0.0**
   - [TAA-511 | Gemini Code Assist in R3 – MCP Gateway Registry and Gerrit MCP Server integration](https://github.com/GoogleCloudPlatform/horizon-sdv/blob/main/docs/release-notes-3-0-0.md#taa-511--gemini-code-assist-in-r3--gerrit-mcp-server-integration)
     - Enabled centralised management and authentication of MCP servers and agents via [MCP Gateway Registry](https://github.com/agentic-community/mcp-gateway-registry) deployment into Horizon.
