@@ -31,18 +31,17 @@ Primary contributions focused on enabling secure, production-ready GenAI workflo
 - **Observability**: Grafana, Prometheus, InfluxDB
 ---
 
-### 🔗 Profile Links
-- [Resume](https://drive.google.com/file/d/1h8Zcwt6jYWZr6ZeBDgARjGVJeGIod5cB/view?usp=drive_link&usp=embed_facebook).
-- [LinkedIn](http://www.linkedin.com/in/akshaykaura20)
-- [Accenture GitHub](https://github.com/akshay-kaura)
----
-
 ### 📃 Certifications
 - [Hashicorp Terraform Associate (003)](https://www.credly.com/badges/546b4f7c-60ae-4ae3-843a-a503193428f4/public_url)
 - [GCP Certified Associate Cloud Engineer](https://www.credly.com/badges/ac117533-74ea-43df-a5a9-2d1e52a67b21/public_url)
 - [AWS Certified Cloud Practitioner (CLF-C02)](https://www.credly.com/badges/bfe69223-94b3-4ab4-bfc5-6847bd11c0af)
 - [Microsoft certified: Azure Fundamentals (AZ-900)](https://www.credly.com/badges/4cd53b29-610a-4465-9ab3-ea8545d4466e) | [Microsoft certified: Security, Compliance and Identity Fundamentals (SC-900)](https://www.credly.com/badges/4e75aacb-fec6-42c5-9a0d-769784b7fa5f)
+---
 
+### 🔗 Profile Links
+- [Resume](https://drive.google.com/file/d/1h8Zcwt6jYWZr6ZeBDgARjGVJeGIod5cB/view?usp=drive_link&usp=embed_facebook).
+- [LinkedIn](http://www.linkedin.com/in/akshaykaura20)
+- [Accenture GitHub](https://github.com/akshay-kaura)
 
 <!--
 **akshaykaura20/akshaykaura20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
