@@ -1,6 +1,6 @@
-## Platform Engineer (DevOps)
+## Cloud Platform Engineer (Kubernetes & DevOps)
 
-I build and operate enterprise-grade cloud platforms that enable AI systems and Internal Developer Platforms (IDP), with 3+ years of hands-on experience across Google Cloud, Kubernetes, Terraform and CI/CD automation.
+I build and operate enterprise-grade cloud-native platforms on Google Cloud. Specialized in Kubernetes platform operations (GKE), Infrastructure as Code (Terraform), CI/CD automation, observability, and platform security. As part of Accenture, I am currently working on the open-source platform [Horizon-SDV](https://github.com/GoogleCloudPlatform/horizon-sdv) that provides end-to-end toolchain for Software Defined Vehicle development.
 
 ### ✍️ Contributions
 #### [Horizon-SDV](https://github.com/GoogleCloudPlatform/horizon-sdv)
